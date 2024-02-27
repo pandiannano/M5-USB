@@ -11,7 +11,7 @@
  */
 
 #include <usbh_midi.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 #ifdef USBCON
 #define _MIDI_SERIAL_PORT Serial1

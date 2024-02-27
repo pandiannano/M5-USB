@@ -14,8 +14,8 @@ Circuits At Home, LTD
 Web      :  http://www.circuitsathome.com
 e-mail   :  support@circuitsathome.com
  */
-#if !defined(__USBHUB_H__)
-#define __USBHUB_H__
+#if !defined(__M5_USBHUB_H__)
+#define __M5_USBHUB_H__
 
 #include "Usb.h"
 

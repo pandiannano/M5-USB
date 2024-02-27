@@ -12,7 +12,7 @@ Otherwise, wire up a IR LED yourself.
 */
 
 #include <Wii.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 // Satisfy the IDE, which needs to see the include statment in the ino too.
 #ifdef dobogusinclude

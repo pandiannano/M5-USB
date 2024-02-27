@@ -1,6 +1,6 @@
 /* Arduino terminal for PL2303 USB to serial converter and DealeXtreme GPRS modem. */
 /* USB support */
-#include <usbhub.h>
+#include <m5_usbhub.h>
 /* CDC support */
 #include <cdcacm.h>
 #include <cdcprolific.h>

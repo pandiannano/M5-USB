@@ -3,7 +3,7 @@
 
 #include <usbhid.h>
 #include <hiduniversal.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 #include "scale_rptparser.h"
 

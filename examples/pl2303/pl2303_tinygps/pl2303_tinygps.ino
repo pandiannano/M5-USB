@@ -4,7 +4,7 @@
 /* test_with_gps_device library example modified for PL2302 access */
 
 /* USB support */
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 /* CDC support */
 #include <cdcacm.h>

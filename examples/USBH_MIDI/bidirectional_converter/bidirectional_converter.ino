@@ -14,7 +14,7 @@
 
 #include <MIDI.h>
 #include <usbh_midi.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 //Arduino MIDI library v4.2 compatibility
 #ifdef MIDI_CREATE_DEFAULT_INSTANCE

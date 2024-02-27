@@ -68,7 +68,7 @@
 #endif
 
 #if WANT_HUB_TEST
-#include <usbhub.h>
+#include <m5_usbhub.h>
 #endif
 #include <Wire.h>
 #define LOAD_RTCLIB

@@ -1,7 +1,7 @@
 /* Arduino terminal for PL2303 USB to serial converter and XBee radio. */
 /* Inserts linefeed after carriage return in data sent to and received from Xbee */
 /* USB support */
-#include <usbhub.h>
+#include <m5_usbhub.h>
 /* CDC support */
 #include <cdcacm.h>
 #include <cdcprolific.h>

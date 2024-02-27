@@ -1,7 +1,7 @@
 #include <usbhid.h>
 #include <hiduniversal.h>
 #include <hidescriptorparser.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 #include "pgmstrings.h"
 
 // Satisfy the IDE, which needs to see the include statment in the ino too.

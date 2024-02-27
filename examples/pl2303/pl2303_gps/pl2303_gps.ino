@@ -1,7 +1,7 @@
 /* USB Host to PL2303-based USB GPS unit interface */
 /* Navibee GM720 receiver - Sirf Star III */
 /* USB support */
-#include <usbhub.h>
+#include <m5_usbhub.h>
 /* CDC support */
 #include <cdcacm.h>
 #include <cdcprolific.h>

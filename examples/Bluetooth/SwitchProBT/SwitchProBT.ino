@@ -5,7 +5,7 @@
  */
 
 #include <SwitchProBT.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 // Satisfy the IDE, which needs to see the include statement in the ino too.
 #ifdef dobogusinclude

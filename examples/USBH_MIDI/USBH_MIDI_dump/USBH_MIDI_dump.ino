@@ -11,7 +11,7 @@
  */
 
 #include <usbh_midi.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 USB Usb;
 USBHub Hub(&Usb);

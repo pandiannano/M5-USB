@@ -5,7 +5,7 @@
  */
 
 #include <BTHID.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 #include "KeyboardParser.h"
 #include "MouseParser.h"
 

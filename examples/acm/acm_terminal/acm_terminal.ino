@@ -1,5 +1,5 @@
 #include <cdcacm.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 #include "pgmstrings.h"
 

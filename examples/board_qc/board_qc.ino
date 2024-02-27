@@ -3,7 +3,7 @@
 /* for GPIO test to pass you need to connect GPIN0 to GPOUT7, GPIN1 to GPOUT6, etc. */
 /* otherwise press any key after getting GPIO error to complete the test */
 /**/
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 // Satisfy the IDE, which needs to see the include statment in the ino too.
 #ifdef dobogusinclude

@@ -1,6 +1,6 @@
 #include <usbhid.h>
 #include <hiduniversal.h>
-#include <usbhub.h>
+#include <m5_usbhub.h>
 
 // Satisfy IDE, which only needs to see the include statment in the ino.
 #ifdef dobogusinclude
